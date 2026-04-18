@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Research radar</title>
+  <desc id="desc">Stylized card highlighting focus areas: EEG, multimodal AI, and healthcare systems.</desc>
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#131c2f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="16" y="16" width="1168" height="308" rx="18" fill="url(#card)" stroke="#253047" stroke-width="2"/>
+  <rect x="16" y="16" width="1168" height="8" rx="4" fill="url(#accent)"/>
+
+  <text x="56" y="76" fill="#e5e7eb" font-size="36" font-family="Segoe UI, Arial, sans-serif" font-weight="700">
+    Research Focus Radar
+  </text>
+  <text x="56" y="112" fill="#9fb3c8" font-size="20" font-family="Segoe UI, Arial, sans-serif">
+    Building clinically meaningful intelligence at the intersection of biology and machine learning.
+  </text>
+
+  <circle cx="140" cy="208" r="46" fill="#0f172a" stroke="#22d3ee" stroke-width="3"/>
+  <text x="140" y="214" text-anchor="middle" fill="#22d3ee" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">EEG</text>
+
+  <circle cx="330" cy="208" r="46" fill="#0f172a" stroke="#3b82f6" stroke-width="3"/>
+  <text x="330" y="214" text-anchor="middle" fill="#3b82f6" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">LLM</text>
+
+  <circle cx="520" cy="208" r="46" fill="#0f172a" stroke="#8b5cf6" stroke-width="3"/>
+  <text x="520" y="214" text-anchor="middle" fill="#8b5cf6" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Genomics</text>
+
+  <circle cx="710" cy="208" r="46" fill="#0f172a" stroke="#06b6d4" stroke-width="3"/>
+  <text x="710" y="214" text-anchor="middle" fill="#06b6d4" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">NLP</text>
+
+  <circle cx="900" cy="208" r="46" fill="#0f172a" stroke="#f97316" stroke-width="3"/>
+  <text x="900" y="214" text-anchor="middle" fill="#f97316" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Clinical AI</text>
+
+  <path d="M186,208 L284,208 L376,208 L474,208 L566,208 L664,208 L756,208 L854,208" stroke="#334155" stroke-width="2" stroke-dasharray="6 6"/>
+
+  <text x="56" y="286" fill="#cbd5e1" font-size="19" font-family="Segoe UI, Arial, sans-serif">
+    Current trajectory: Emotion-aware memory systems, assistive diagnostics, and trustworthy healthcare copilots.
+  </text>
+</svg>
