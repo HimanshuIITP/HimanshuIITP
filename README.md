@@ -8,7 +8,7 @@
 
 ### Architecting Intelligent Healthcare Systems from Biological Signals
 
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=760&height=40&lines=Bioinformatics+%C3%97+AI+%C3%97+Clinical+Impact;Decoding+EEG+Signals+for+Emotion-Aware+Intelligence;Building+Healthcare+Tools+People+Can+Actually+Trust;From+Research+Prototypes+to+Real-World+Patient+Workflows" alt="Typing tagline"/>
 </a>
 
